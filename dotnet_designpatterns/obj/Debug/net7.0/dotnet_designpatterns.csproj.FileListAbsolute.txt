@@ -1,0 +1,15 @@
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\bin\Debug\net7.0\dotnet_designpatterns.exe
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\bin\Debug\net7.0\dotnet_designpatterns.deps.json
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\bin\Debug\net7.0\dotnet_designpatterns.runtimeconfig.json
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\bin\Debug\net7.0\dotnet_designpatterns.dll
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\bin\Debug\net7.0\dotnet_designpatterns.pdb
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.csproj.AssemblyReference.cache
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.AssemblyInfoInputs.cache
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.AssemblyInfo.cs
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.csproj.CoreCompileInputs.cache
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.dll
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\refint\dotnet_designpatterns.dll
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.pdb
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\dotnet_designpatterns.genruntimeconfig.cache
+C:\Users\António\Desktop\Programming\dotnet_algorithms\dotnet_designpatterns\obj\Debug\net7.0\ref\dotnet_designpatterns.dll
