@@ -1,1 +1,1 @@
-# Algorithms and Design Patterns practice.
+# Algorithms and Design Patterns personal practice
